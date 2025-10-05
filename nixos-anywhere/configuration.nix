@@ -59,7 +59,7 @@
 
     # UNCOMMENT the following to install these packages systemwide
     # pkgs.jq
-    # pkgs.neovim
+    pkgs.neovim
     # pkgs.fzf
   ];
 
